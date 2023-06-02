@@ -1,5 +1,7 @@
 # Live site: https://chef-recipe-hunter-clien-ef61e.web.app/
 
+## Server side github repo: https://github.com/apurbojamananis/Toy-marketplace-server
+
 - The project involves creating a website dedicated exclusively to one cuisine, with recipes from only one country and chef.
 - The website has a unique design, including a navbar with the website name, home, blog, and user profile picture, and a footer that appears on all pages.
 - The registration page includes fields for name, email, password, and photo URL, and displays errors for incomplete or incorrect submissions.
